@@ -419,3 +419,8 @@
 // }num().then((c)=>{
 //     console.log(c)
 // })
+
+const a= abs=()=>{
+    console.log("AMISHA BHENCHOD");
+}
+abs();
